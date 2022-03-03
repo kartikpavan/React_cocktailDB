@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+### Live @ : https://react-cocktail-db.vercel.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2022-03-03 172519](https://user-images.githubusercontent.com/81632171/156560268-825ea268-2201-4a18-97ee-198903332f98.png)
+
 
 ## Available Scripts
 
