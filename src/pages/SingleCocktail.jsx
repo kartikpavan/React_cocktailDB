@@ -106,7 +106,7 @@ function SingleCocktail() {
             </span>
             <div className="text-xl ml-2 px-2">
               {ingredients.map((item, index) => {
-                return item ? <span key={index}>{item}</span> : null;
+                return item ? <span key={index}>{item}, </span> : null;
               })}
             </div>
           </div>
